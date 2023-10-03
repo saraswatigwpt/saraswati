@@ -1,0 +1,28 @@
+*{
+    padding:0;
+    margin:0;
+    color:black
+}
+#navbar{
+    background-color: coral;
+    height:100px;
+    
+}
+botton{
+    background-color: green;
+    border-width: 5px;
+    margin: 20px;
+}
+#logo{
+    color:black;
+}
+a{
+    text-decoration: none;
+    margin-right: 200px;
+    padding: 5px; 
+}
+body{
+    background-image:1.jpg;
+    background-repeat: no-repeat;
+    background: 100px;
+}
